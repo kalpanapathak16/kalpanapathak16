@@ -3,7 +3,7 @@
 - 👀 I am interested in learning new technologies and translating complex technical concepts into easily understandable content.  
 - 🌱 I am currently learning Python and exploring data analysis projects.
 - 💞️ I am available for the Technical Writer role. Kindly reach out to me via Linkedin.
-- 📫 How to reach me : Linkedin: [KalpanaPathak](www.linkedin.com/in/kalpana-pathak-6a0a474)
+- 📫 How to reach me : Linkedin: [KalpanaPathak](https://www.linkedin.com/in/kalpana-pathak-6a0a474/)
 
 <!---
 kalpanapathak16/kalpanapathak16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
